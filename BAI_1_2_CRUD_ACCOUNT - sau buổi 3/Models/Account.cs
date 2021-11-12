@@ -13,7 +13,7 @@ namespace BAI_1_2_CRUD_ACCOUNT.Models
 
         //2
 
-
+        //2
         public bool Status { get; set; }
     }
 }

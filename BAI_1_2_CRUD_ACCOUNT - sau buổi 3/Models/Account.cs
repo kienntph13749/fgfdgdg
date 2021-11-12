@@ -11,6 +11,9 @@ namespace BAI_1_2_CRUD_ACCOUNT.Models
         public int Sex { get; set; }
         public int YearofBirth { get; set; }
 
+
+
+
         public bool Status { get; set; }
     }
 }
